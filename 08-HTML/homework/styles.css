@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/bandera-peru-hecha-pintura-pincel-metalico-pared-oscura-grunge_1379-2558.jpg);
+    background-repeat: none;
+    background-size: cover;
+    position: relative;
+}
+h1, h3, h4{
+    color: #F2F3F4;
+}
+.divClass h1{
+    color: #27AE60;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: linear-gradient(#CB4335, #F2F3F4, #CB4335);
+}
+span{
+    color: #F2F3F4;
+}
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv{
+    padding: 50px;
+    border: 10px solid  #943126;
+}
+.centrar{
+    display: flex;
+    flex-direction: column;
+}
